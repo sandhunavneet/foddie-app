@@ -155,3 +155,8 @@ body {
     border-radius: 4px;
     cursor: pointer;
 }
+.vegnonveg {
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    top: 250px;
